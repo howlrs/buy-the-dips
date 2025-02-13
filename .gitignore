@@ -1,0 +1,5 @@
+simulator/data/
+simulator/data/*
+.env*
+
+!.env.sample
